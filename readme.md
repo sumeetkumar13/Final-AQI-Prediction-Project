@@ -106,14 +106,4 @@ Central Pollution Control Board (CPCB)
 Scikit-learn, Streamlit, and open-source Python ecosystem
 
 ## 👨‍💻 Team
-[Your Name]
-
-[Collaborator 1]
-
-[Collaborator 2]
-
-## 📬 Contact
-
-Let me know if you'd like this personalized more (with your name, links, or screenshot of the app). You’re ready to push this to GitHub now!
-
-
+Sumeetkumar Dange
